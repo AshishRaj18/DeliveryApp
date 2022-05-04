@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shared_preferences">RestaurantPreferences</string>
+    <string name="token">42c590ad1c0b24</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="email">Email</string>
+    <string name="mobile_number">Mobile Number (10 digits)</string>
+    <string name="address">Address</string>
+    <string name="choose_password">Password (Min. 4 Characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="registration">Register</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="can_t_find_any_restaurant_with_that_name">Can\'t find any restaurant with that name</string>
+    <string name="question1">Q1 Why is Delivery doing this?</string>
+    <string name="answer1">A1. At delivery we strive to add value to your business. We understand the challenges you face on a daily basis in sourcing the best quality packaging material. Delivery Packaging Assist is to take care of all your packaging needs.</string>
+    <string name="question2">Q2. How are you guys different?</string>
+    <string name="answer2">A2. Best products - We only list the products which have passed our tests and are the best suitable for delivery. They will help in giving a better consumer experience, so you can get repeated orders. Best prices - We have negotiated rates with our distributors exclusive for Delivery Restaurant. Convenience - No need to haggle for prices. No need to follow-up on delivery. We track all orders to ensure you have a hassle free experience.</string>
+    <string name="question3">Q3. Why is Delivery doing this?</string>
+    <string name="answer3">A3. At Delivery we strive to add value to your business. We understand the challenges you face on a daily basis in sourcing the best quality packaging material. FoodZest Packaging Assist is to take care of all your packaging needs.</string>
+    <string name="choose_from_menu_listed_below">Choose from the menu listed below</string>
+    <string name="proceed_to_cart_btn">Proceed to cart</string>
+    <string name="add_to_cart_btn">Add to Cart</string>
+    <string name="your_previous_orders_are_listed_below">Your previous orders are listed below</string>
+    <string name="no_orders_placed">No Orders placed</string>
+    <string name="ordering_from">Ordering from</string>
+    <string name="place_order">Place Order</string>
+</resources>
